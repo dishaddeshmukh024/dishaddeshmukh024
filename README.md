@@ -1,9 +1,15 @@
 - 👋 Hi, I’m @dishaddeshmukh024
--  AWS Data Engineer with 3.6 years of experience building cloud-native pipelines using S3, Glue, Redshift, and Lambda.
--  Proven track record of reducing ETL runtime by 40% and optimizing data warehouse costs by 25%. Skilled in PySpark, Airflow, and IaC
-- 📫 How to reach me @its.dishadeshmukh@gmail.com
 
-<!---
-dishaddeshmukh024/dishaddeshmukh024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- AWS Data Engineer | Cloud-Native ETL | Big Data | Python | Spark
+- I’m a Data Engineer with 3.6 years of experience designing and optimizing scalable data pipelines on AWS. My focus is on building cloud-native solutions using S3, Glue, Lambda, Kinesis, Redshift, and Athena, with strong expertise in PySpark, SQL, and data modeling.
+
+On this GitHub, you’ll find projects that showcase:
+Data Lakes & Warehouses: End-to-end pipelines with AWS Glue + Athena + Redshift
+Streaming Data: Real-time ingestion using Kinesis + Lambda
+ETL Automation: Airflow DAGs and Step Functions for batch workflows
+Performance Optimization: Partitioning, caching, and cost-efficient queries
+
+📌 Certified in AWS DevOps Engineer – Professional, Azure Data Engineer Associate, and Databricks Data Engineer Associate.
+📌 Passionate about building secure, reliable, and cost-effective data solutions that empower analytics and decision-making.
+
+- 📫 How to reach me @its.dishadeshmukh@gmail.com
