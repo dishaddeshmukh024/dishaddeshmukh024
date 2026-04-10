@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dishaddeshmukh024
 
 - AWS Data Engineer | Cloud-Native ETL | Big Data | Python | Spark
-- I’m a Data Engineer with 3.6 years of experience designing and optimizing scalable data pipelines on AWS. My focus is on building cloud-native solutions using S3, Glue, Lambda, Kinesis, Redshift, and Athena, with strong expertise in PySpark, SQL, and data modeling.
+- I’m a Data Engineer with 3.7 years of experience designing and optimizing scalable data pipelines on AWS. My focus is on building cloud-native solutions using S3, Glue, Lambda, Kinesis, Redshift, and Athena, with strong expertise in PySpark, SQL, and data modeling.
 
 On this GitHub, you’ll find projects that showcase:
 Data Lakes & Warehouses: End-to-end pipelines with AWS Glue + Athena + Redshift
